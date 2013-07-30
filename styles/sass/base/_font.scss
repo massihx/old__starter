@@ -1,0 +1,97 @@
+@font-face {
+	font-family: 'SegoeUI-Bold';
+	src: url('fonts/segoe/SegoeUI-bold.eot');
+	src: url('fonts/SegoeUI-bold.eot?#iefix') format('embedded-opentype'), 
+		 url('fonts/SegoeUI-bold.woff') format('woff'), 
+		 url('fonts/SegoeUI-bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SegoeUI-Light';
+	src: url('fonts/segoe/SegoeUI-light.eot');
+	src: url('fonts/SegoeUI-light.eot?#iefix') format('embedded-opentype'), 
+		 url('fonts/SegoeUI-light.woff') format('woff'), 
+		 url('fonts/SegoeUI-light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SegoeUI-Normal';
+	src: url('fonts/segoe/SegoeUI-normal.eot');
+	src: url('fonts/SegoeUI-normal.eot?#iefix') format('embedded-opentype'), 
+		 url('fonts/SegoeUI-normal.woff') format('woff'), 
+		 url('fonts/SegoeUI-normal.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SegoeUI-Semilight';
+	src: url('fonts/segoe/SegoeUI-semilight.eot');
+	src: url('fonts/SegoeUI-semilight.eot?#iefix') format('embedded-opentype'), 
+		 url('fonts/SegoeUI-semilight.woff') format('woff'), 
+		 url('fonts/SegoeUI-semilight.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SegoeUI-Semibold';
+	src: url('fonts/segoe/SegoeUI-semibold.eot');
+	src: url('fonts/SegoeUI-semibold.eot?#iefix') format('embedded-opentype'), 
+		 url('fonts/SegoeUI-semibold.woff') format('woff'), 
+		 url('fonts/SegoeUI-semibold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BrandonGrotesque-Bold';
+	src: url('fonts/BrandonGrotesque/BrandonGrotesque-Bold.eot');
+	src: url('fonts/BrandonGrotesque/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'), 
+		 url('fonts/BrandonGrotesque/BrandonGrotesque-Bold.woff') format('woff'), 
+		 url('fonts/BrandonGrotesque/BrandonGrotesque-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BrandonGrotesque-Black';
+	src: url('fonts/BrandonGrotesque/BrandonGrotesque-Black.eot');
+	src: url('fonts/BrandonGrotesque/BrandonGrotesque-Black.eot?#iefix') format('embedded-opentype'), 
+		 url('fonts/BrandonGrotesque/BrandonGrotesque-Black.woff') format('woff'), 
+		 url('fonts/BrandonGrotesque/BrandonGrotesque-Black.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BrandonGrotesque-Regular';
+	src: url('fonts/BrandonGrotesque/BrandonGrotesque-Regular.eot');
+	src: url('fonts/BrandonGrotesque/BrandonGrotesque-Regular.eot?#iefix') format('embedded-opentype'), 
+		 url('fonts/BrandonGrotesque/BrandonGrotesque-Regular.woff') format('woff'), 
+		 url('fonts/BrandonGrotesque/BrandonGrotesque-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+$font-segoe:         'SegoeUI-Normal';
+$font-segoe-light:   'SegoeUI-Light';
+$font-segoe-slight:  'SegoeUI-Semilight';
+$font-segoe-bold:    'SegoeUI-Bold';
+$font-segoe-sbold:   'SegoeUI-Semibold';
+
+$font-brandon:       'BrandonGrotesque-Regular';
+$font-brandon-bold:  'BrandonGrotesque-Bold';
+$font-brandon-black: 'BrandonGrotesque-Black';
+
+
+
+
+
+
+
+

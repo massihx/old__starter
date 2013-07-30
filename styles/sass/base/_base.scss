@@ -1,0 +1,51 @@
+* {	
+	@include box-sizing(border-box);
+
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	pointer-events: none;
+	-webkit-transform-style: flat;
+	/*
+	 user-select is disabled so images dont get selected during drag.
+	 */
+	 /*
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	*/
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	/*overflow: hidden;*/
+}
+
+html{
+
+}
+body{
+	margin: 0 auto;
+	padding: 0;
+
+	font-family: $font-base;
+	font-size: 1em;
+	line-height: 1.5;
+}
+
+a{
+    color: $color-link;
+	text-decoration: none;
+
+	pointer-events: all;
+	:hover{
+
+	}
+}
